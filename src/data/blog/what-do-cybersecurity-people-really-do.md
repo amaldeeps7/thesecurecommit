@@ -1,7 +1,7 @@
 ---
 author: thesecurecommit
-pubDatetime: 2025-12-23T17:40:00Z
-modDatetime: 2025-12-23T17:40:00Z
+pubDatetime: 2025-12-12T17:40:00Z
+modDatetime: 2025-12-12T17:40:00Z
 title: What Do Cybersecurity People Really Do
 slug: what-do-cybersecurity-people-really-do
 featured: true
