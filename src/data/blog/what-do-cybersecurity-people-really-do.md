@@ -9,6 +9,7 @@ tags:
   - cybersecurity
   - career
   - appsec
+  - docs
 description: A plain-language walkthrough of what different cybersecurity roles actually do day to day.
 ---
 
