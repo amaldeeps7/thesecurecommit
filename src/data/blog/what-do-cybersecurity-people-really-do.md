@@ -28,8 +28,6 @@ So I wanted my first post to be something simple, something human.
 Not a guide, not a deep technical breakdown - just a genuine story-style overview of what I’ve observed so far in this space.  
 Think of it as a walk through a cybersecurity team, told in plain words.
 
-----------
-
 ## **The AppSec Engineer – The Translator Between Builders and Breakers**
 
 AppSec is where I currently spend my time, so let me start here.
@@ -49,7 +47,6 @@ and connecting it to business impact without drowning everyone in security jargo
 
 AppSec sits in this unique space - a little bit builder, a little bit breaker, a lot of empathy.
 
-----------
 
 ## **The SOC Analyst – The Eyes and Ears of the Organization**
 
@@ -64,7 +61,6 @@ They’re the ones who say:
 
 And sometimes, that message is the difference between a contained incident and a news headline.
 
-----------
 
 ## **The Red Team – The Friendly Villains**
 
@@ -85,7 +81,6 @@ It also teaches creativity - the kind that strengthens the entire organization.
 AppSec, Blue Team, and Red Team form a quiet partnership:  
 one finds weaknesses, one detects them, one prevents them.
 
-----------
 
 ## **The Security Architect – The Long-Term Thinker**
 
@@ -105,7 +100,6 @@ They ask questions like:
 Security architecture is slow work, but foundational.  
 It’s like drawing the blueprint of a house before anyone buys bricks.
 
-----------
 
 ## **The GRC Side – The Quiet Backbone of Security**
 
@@ -125,7 +119,6 @@ GRC is less about hacking and more about **alignment**:
 It keeps the organization grounded in reality.  
 If AppSec is about reducing attack surface, GRC is about ensuring we’re not building our entire castle on unstable ground.
 
-----------
 
 ## **Cloud & Infra Security – The Gatekeepers of Modern Systems**
 
@@ -148,7 +141,6 @@ They don’t just check if something works - they check if it **should** be allo
 
 In the age of cloud-first everything, this role has become essential.
 
-----------
 
 ## **How It All Connects**
 
@@ -171,8 +163,6 @@ Cybersecurity often looks siloed from the outside, but the truth is:
 
 This interconnectedness is what makes the field fascinating.  
 Nobody can do everything - but everyone contributes to everything.
-
-----------
 
 ## **So Why Start This Blog With This?**
 
