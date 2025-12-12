@@ -67,11 +67,11 @@ Red teamers are the people who “attack” you so others don’t get the chance
 
 But real red teaming is less about showy exploits and more about thinking the way an attacker would:
 
--   How would someone get in?
+- How would someone get in?
     
--   What paths exist that people don’t normally see?
+- What paths exist that people don’t normally see?
     
--   What assumptions can be broken?
+- What assumptions can be broken?
     
 
 Good red teaming teaches humility.  
@@ -89,11 +89,11 @@ While the rest of us focus on tickets, alerts, and immediate problems, architect
 
 They ask questions like:
 
--   Is this design scalable and secure two years from now?
+- Is this design scalable and secure two years from now?
     
--   Are we building a system that’s safe by default?
+- Are we building a system that’s safe by default?
     
--   Is the risk worth the feature?
+- Is the risk worth the feature?
     
 
 Security architecture is slow work, but foundational.  
@@ -106,13 +106,13 @@ People underestimate GRC (Governance, Risk, Compliance) until they actually need
 
 GRC is less about hacking and more about **alignment**:
 
--   Are we following regulations?
+- Are we following regulations?
     
--   Do we understand our risks correctly?
+- Do we understand our risks correctly?
     
--   Are controls actually implemented?
+- Are controls actually implemented?
     
--   Can we prove it during an audit?
+- Can we prove it during an audit?
     
 
 It keeps the organization grounded in reality.  
@@ -125,15 +125,15 @@ These are the people who understand IAM policies better than some of us understa
 
 They think in terms of:
 
--   identity boundaries
+- identity boundaries
     
--   least privilege
+- least privilege
     
--   secure defaults
+- secure defaults
     
--   network flows
+- network flows
     
--   configuration drift
+- configuration drift
     
 
 They don’t just check if something works - they check if it **should** be allowed to work.
@@ -147,17 +147,17 @@ Cybersecurity often looks siloed from the outside, but the truth is:
 
 **Every role is connected.**
 
--   Red teams expose weaknesses.
+- Red teams expose weaknesses.
     
--   SOC detects exploitation attempts.
+- SOC detects exploitation attempts.
     
--   AppSec prevents them from happening in the first place.
+- AppSec prevents them from happening in the first place.
     
--   Cloud/Infra ensures the environment is trustworthy.
+- Cloud/Infra ensures the environment is trustworthy.
     
--   Architects set the long-term direction.
+- Architects set the long-term direction.
     
--   GRC ensures all of this fits into legal, business, and regulatory frameworks.
+- GRC ensures all of this fits into legal, business, and regulatory frameworks.
     
 
 This interconnectedness is what makes the field fascinating.  
