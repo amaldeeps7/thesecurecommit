@@ -1,3 +1,8 @@
+---
+layout: ../layouts/AboutLayout.astro
+title: "About"
+---
+
 _The Secure Commit is a personal journal of my ongoing journey in Application Security, a place where I document what I’m learning, exploring, and refining as I grow in this field._
 
 I’m an AppSec engineer who enjoys understanding how systems behave, why vulnerabilities appear, and how security can be made more approachable for developers and teams. This blog is where I turn those insights into simple, practical writing, not as polished “expert” tutorials, but as honest notes from real experiences.
