@@ -1,16 +1,15 @@
 ---
-author: Sat Naing
-pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2025-06-13T16:52:45.934Z
+author: Your Name
+pubDatetime: 2025-12-12T18:00:00Z
 title: So, What Do Cybersecurity People Really Do? - A Simple, Honest Overview
-slug: adding-new-posts-in-astropaper-theme
+slug: what-do-cybersecurity-people-really-do
 featured: true
 draft: false
 tags:
-  - docs
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaperr
-  theme.
+  - cybersecurity
+  - career
+  - appsec
+description: A plain-language walkthrough of what different cybersecurity roles actually do day to day.
 ---
 
 When people hear “cybersecurity,” the first image that pops up is usually a hoodie, a dark room, and green code on a screen.  
