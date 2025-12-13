@@ -1,7 +1,7 @@
 ---
-author: Sat Naing
-pubDatetime: 2025-09-23T15:22:00Z
-modDatetime: 2025-12-13T16:52:45.934Z
+author: Amal
+pubDatetime: 2025-12-07T15:22:00Z
+modDatetime: 2025-12-12T16:52:45.934Z
 title: What Do Cybersecurity People Really Do? - A Simple, Honest Overview
 slug: what-do-cybersecurity-people-really-do-blog
 featured: true
